@@ -1,0 +1,13 @@
+
+  {
+    "id": "leunigs",
+    "name": "Leunig's Bistro",
+    "phone": "802-863-3759",
+    "address": "115 Church St Burlington, VT 05401",
+    "hours": "Tuesday - Saturday: 12:00 pm - 8:00 pm", 
+    "website": "https://www.leunigsbistro.com/", 
+    "latitude": 44.47746,
+    "longitude": -73.21279,
+    "notes": ["Old class upscale french fine dining. The steak frites is a personal favorite! You cannot go wrong with anything from this bistro's menu!"]
+  }
+  

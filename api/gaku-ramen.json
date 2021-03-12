@@ -1,0 +1,11 @@
+{
+  "id": "gaku-ramen",
+  "name": "Gaku Ramen",
+  "phone": "802-497-3050",
+  "address": "144 Church St Burlington, VT 05401",
+  "hours": "Monday - Sunday: 11:00 am - 9:00 pm",
+  "website": "https://www.gakuramen.com",
+  "latitude": 44.47656,
+  "longitude": -73.21226,
+  "notes": ["A go-to when you are looking for that perfect bowl of warm comforting ramen! My favorite additions is the pork belly, soft-boiled egg and miso mushrooms!"]
+}

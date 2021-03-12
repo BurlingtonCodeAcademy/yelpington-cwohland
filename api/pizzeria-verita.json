@@ -1,0 +1,11 @@
+{
+  "id": "pizzeria-verita",
+  "name": "Pizzeria Verita",
+  "phone": "(802) 489-5644",
+  "address": "156 St. Paul St Burlington, VT 05401",
+  "hours": "Wednesday - Saturday: 5:00 pm - 8:00 pm",
+  "website": "https://www.pizzeriaverita.com/",
+  "lat": "44.47543",
+  "long": "-73.21356",
+  "notes": ["For entrees my favorite pizzas are the Pizzarao for the caramel onions and the Mais for the sweet roasted corn and the creme fraîche. Do not forget to try their tiramisu and tasty cannoli either!"]
+  }

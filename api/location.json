@@ -1,0 +1,61 @@
+[
+  {
+    "name": "A Single Pebble",
+    "latitude": 44.47819,
+    "longitude": -73.21459
+  },
+
+  {
+    "name": "American Flatbread",
+    "latitude": 44.47682,
+  "longitude": -73.21427
+  },
+
+  {
+    "name": "Gaku Ramen",
+    "latitude": 44.47656,
+    "longitude": -73.21226
+  },
+
+  {
+    "name": "Hen of The Wood",
+    "latitude": 44.47922,
+  "longitude": -73.21746
+  },
+
+  {
+    "name": "Honey Road",
+    "latitude": 44.47625,
+    "longitude": -73.21223
+  },
+
+  {
+    "name": "Leunigs",
+    "latitude": 44.47746,
+    "longitude": -73.21279
+  },
+
+  {
+    "name": "Pho Hung",
+    "latitude": 44.48905,
+    "longitude": -73.20706
+  },
+
+  {
+    "name": "Pizzeria Verita",
+    "latitude": 44.47543,
+    "longitude": -73.21356
+  },
+
+  {
+    "name": "Splash",
+    "latitude": 44.47783,
+    "longitude": -73.22266
+  },
+
+  {
+    "name": "SweetWaters",
+    "latitude": 44.47768,
+    "longitude": -73.21254
+  }
+]
